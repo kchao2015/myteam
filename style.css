@@ -1,0 +1,29 @@
+body {
+	font-family: 'Droid Sans', arial;
+	/*background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+*/}
+
+a {
+	color: CornflowerBlue;
+}
+
+a:hover {
+	color: purple;
+}
+
+
+.jumbotron {
+	background-color: white;
+}
+
+#logo {
+	height:	400px;
+}
+
+#wrapper {
+  width: 960px;
+  margin: 20px auto;
+  padding: 20px;
+}
